@@ -1,8 +1,8 @@
 public class Hello1 {
     public static void main(String[] args) {
-        int n1 = 10; 
-        int n2 = 20;
-        int result = n1 + n2;
+        int m1 = 10; 
+        int m2 = 20;
+        int result = m1 + m2;
         System.out.println(result);
 
     }
